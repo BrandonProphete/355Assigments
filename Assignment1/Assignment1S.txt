@@ -1,0 +1,7 @@
+C:\Users\brand\PycharmProjects\pythonProject\.venv\Scripts\python.exe C:\Users\brand\PycharmProjects\pythonProject\Assignment1S.py
+Socket successfully created
+socket binded to 12345
+socket is listening
+Got connection from ('192.168.1.183', 61236)
+
+Process finished with exit code 0

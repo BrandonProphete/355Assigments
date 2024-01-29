@@ -1,0 +1,18 @@
+C:\Users\brand\PycharmProjects\pythonProject\.venv\Scripts\python.exe C:\Users\brand\PycharmProjects\pythonProject\Assignment1C.py
+Your Computer Name is:DESKTOP-5793BD4
+Your Computer IP Address is:192.168.1.183
+The binary version is 11000000101010000000000110110111 32
+The class type is C
+The port number is 125 The port type Well-Known
+Socket successfully created
+The socket has successfully connected to www.google.com on port 80
+"Hold me close, I want you so, don't you know that baby?
+ Your love has touched my very soul, can you feel it baby?
+ Oh, never let me go, darlin' cause we're so in love, and we can dream on, sweet dream..."
+
+
+60312 24-01-03 19:58:29 00 0 0 424.9 UTC(NIST) *
+
+Thank you for connecting
+
+Process finished with exit code 0

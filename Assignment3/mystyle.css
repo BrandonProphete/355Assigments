@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    color: deeppink;
+    text-align: center;
+}
+h3 {
+    color: deeppink;
+}
+.vericaltext {
+ writing-mode: vertical-lr;
+ text-orientation: upright;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    vertical-align: top
+}
+th > a {
+    color: white;
+}
+th {
+    background-color: deeppink;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: white;
+    color: pink;
+}
+tr:nth-child(odd) {
+    background-color: pink;
+    color: white;
+}
