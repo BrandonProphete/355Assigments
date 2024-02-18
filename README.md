@@ -1,2 +1,2 @@
 # 355Assigments
-Internet and Web Techniques assignments
+Solutions for CSCI 355 - Internet and Web Techniques assignments
